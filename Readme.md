@@ -1,4 +1,4 @@
- Jogo da Velha em Pascal
+Jogo da Velha em Pascal
 
 Este é um simples jogo da velha implementado em Pascal. O código utiliza procedimentos e funções para facilitar a organização e compreensão do jogo. Abaixo estão detalhes sobre cada parte do código.
 
